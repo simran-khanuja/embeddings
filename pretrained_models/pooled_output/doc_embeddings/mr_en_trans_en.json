@@ -6,8 +6,8 @@
             2000,
             768
         ],
-        "tensorPath": "https://raw.githubusercontent.com/simran-khanuja/embeddings/main/pretrained_models/pooled_output/doc_embeddings/mr_en_trans_en_embed.tsv",
-        "metadataPath": "https://raw.githubusercontent.com/simran-khanuja/embeddings/main/pretrained_models/pooled_output/doc_embeddings/mr_en_trans_en_label.tsv"
+        "tensorPath": "https://raw.githubusercontent.com/simran-khanuja/embeddings/main/pretrained_models/cls_output/doc_embeddings/mr_en_trans_en_embed.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/simran-khanuja/embeddings/main/pretrained_models/cls_output/doc_embeddings/mr_en_trans_en_label.tsv"
         }
     ]
 }

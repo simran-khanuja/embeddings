@@ -6,8 +6,8 @@
             9394,
             768
         ],
-        "tensorPath": "https://raw.githubusercontent.com/simran-khanuja/embeddings/finetuned_models/cls_output/monolingual_translate/xnli/hi-en-labels.tsv",
-        "metadataPath": "https://raw.githubusercontent.com/simran-khanuja/embeddings/finetuned_models/cls_output/monolingual_translate/xnli/hi-en-embeddings.tsv"
+        "tensorPath": "https://raw.githubusercontent.com/simran-khanuja/embeddings/finetuned_models/cls_output/monolingual_translate/xnli/hi-en-embeddings.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/simran-khanuja/embeddings/finetuned_models/cls_output/monolingual_translate/xnli/hi-en-labels.tsv"
         }
     ]
 }

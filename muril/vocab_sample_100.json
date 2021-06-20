@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+        {
+        "tensorName": "My tensor",
+        "tensorShape": [
+            1000,
+            768
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/simran-khanuja/embeddings/main/muril/vocab_sampled_100_embeddings.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/simran-khanuja/embeddings/main/muril/vocab_sampled_100_labels.tsv"
+        }
+    ]
+}
